@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Yarn](https://yarnpkg.com/)
 
-### ⚠️Pré-requisitos
+### ⚠️ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Node.js](https://nodejs.org/en/),
