@@ -1,0 +1,28 @@
+ferramentas de deplay pra front end
+netlify
+vercel
+
+dia 1: #rumoaoproximonivel
+dia 2: #jornadainfinita
+dia 3: #focopraticagrupo
+dia 4: #neverstoplearning
+dia 5: #missioncomplete
+
+
+ignite: 5488-5548-42sd-4dsa
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/vilsonjunior/rocketseat_nlw4>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd rocketseat_nlw4
+
+# Vá para a pasta server
+$ cd temexe-next
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn dev
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
