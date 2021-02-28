@@ -1,5 +1,5 @@
 <h1>
-    App: Te Mexe
+    🏋🏻🏋🏻‍♀️🏋🏽‍♀️ App: Te Mexe 🏃🏻🏃🏽🏃🏻‍♀️🏃🏽‍♀️
 </h1>
 
 <h3>
@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Yarn](https://yarnpkg.com/)
 
-### Pré-requisitos
+### ⚠️Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Node.js](https://nodejs.org/en/),
@@ -37,7 +37,7 @@ yarn dev
 
 E então acesso pelo seu navegador de preferência: http://localhost:3000
 
-### Deploy para Vercel
+### ☁️ Deploy para Vercel
 
 No terminal
 
