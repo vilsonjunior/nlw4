@@ -116,6 +116,6 @@ dist
 .pnp.*
 
 #anotacoes
-.anotacoes.*
+anotacoes.txt
 
 .vercel
