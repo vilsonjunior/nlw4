@@ -29,3 +29,18 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### 🎲 Rodando a aplicação
 
+No terminal
+
+cd temexe-next
+
+yarn dev
+
+E então acesso pelo seu navegador de preferência: http://localhost:3000
+
+### Deploy para Vercel
+
+No terminal
+
+npm i -g vercel
+
+vercel
